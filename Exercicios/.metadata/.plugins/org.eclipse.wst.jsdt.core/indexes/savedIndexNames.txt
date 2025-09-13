@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/202419050670/Documentos/LPOO/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2762572656.index
+2318429652.index
+1025057935.index
+1500404314.index
+560372990.index
+457800669.index

@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+/home/202419050670/Documentos/LPOO/.metadata/.plugins/org.eclipse.jdt.core
+560372990.index
+1865797976.index
+4185382818.index
+2409401314.index
+1765501795.index
+159685674.index
